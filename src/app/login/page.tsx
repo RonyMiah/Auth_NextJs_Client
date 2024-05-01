@@ -41,7 +41,7 @@ const LoginPage = () => {
   return (
     <div className="my-10">
       <h1 className="text-center text-4xl mb-5">
-        Login <span className="text-accent">Here</span>
+        Login <span className="text-accent">Here .</span>
       </h1>
       <div className="grid grid-cols-2 gap-4">
         <div>
